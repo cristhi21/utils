@@ -7,7 +7,7 @@ This is a page to mapping somethings utilities
 ## Learnign Topics
 ### Cloud
 - [Tutoriales Dojo](https://tutorialsdojo.com/)
-- [AWS Developer](https://dev.to/aws-builders/my-aws-developer-associate-study-guide-298l)
+- [AWS Developer Associate study guide](https://dev.to/aws-builders/my-aws-developer-associate-study-guide-298l)
   
 ### SQL
 - [Training](https://www.sqlskills.com/sql-server-training/)
@@ -15,6 +15,7 @@ This is a page to mapping somethings utilities
 ### Java
 - [Java Baeldung](https://www.baeldung.com/java-tutorial)
 - [hyperskill JetBrains](https://hyperskill.org/tracks?category=2&_gl=1%2aw6d73u%2a_ga%2aMjAzNTY3NDIzNy4xNjc3NzkxMDQ2%2a_ga_9J976DJZ68%2aMTY5MjIzNDE1MC4zOS4xLjE2OTIyMzQzNDkuNTcuMC4w&_ga=2.96854815.1466692506.1692128628-2035674237.1677791046)
+- [Java tutorial](https://www.educba.com/software-development/software-development-tutorials/java-tutorial/)
 
 ### Front
 - [Developer Google](https://developer.chrome.com/docs/)
